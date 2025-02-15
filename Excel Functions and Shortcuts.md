@@ -4,12 +4,21 @@
 
 Here is a brief overview of the excel functionalitites or shortcuts that were helpful in the process of navigating excel, Hope this helps you :)
 
-***Credits:***\
-<img width="155" alt="image" src="https://github.com/user-attachments/assets/a1ee359c-d5a2-4110-b299-dce2b3f460f0" />
-> [Excel Formulas and Functions, BY: Kevin Stratvert](https://www.youtube.com/watch?v=Y8xhrUa3KH4&ab_channel=KevinStratvert)
+**INDEX:**
+1. [Keyboard Functions](#keyboard-functions)
+2. [Arithmetic Operations](#arithmetic-operations)
+3. [String Functions](#string-functions)
+4. [Date Functions](#date-functions)
+
+
+***Credits:***
+
+> <img width="155" alt="image" src="https://github.com/user-attachments/assets/a1ee359c-d5a2-4110-b299-dce2b3f460f0" />
+[Excel Formulas and Functions, BY: Kevin Stratvert](https://www.youtube.com/watch?v=Y8xhrUa3KH4&ab_channel=KevinStratvert)
 
 ## Basic Functionalities
 ### Keyboard Functions:
+<a id=#keyboard-functions></a>
 - CTRL+C: COPY
 - CTRL+V: PASTE
 - CTRL+X: CUT
@@ -65,6 +74,7 @@ To get absolute reference from another tab, follow below steps:
 
 
 ### Arithmetic Operations
+<a id=#arithmetic-operations></a>
 - SUM(A1:A9): Gives out the summation values
 - AVERAGE(A1:A9): Gives out the average values
 - PRODUCT(A1:A9): Gives product of a set of numbers in a range of cells
@@ -94,6 +104,7 @@ To get absolute reference from another tab, follow below steps:
   - "<>" : Not equal to
 
 ### String Functions  
+<a id=#string-functions></a>
 
 ---
 
