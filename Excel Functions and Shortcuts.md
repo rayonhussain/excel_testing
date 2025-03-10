@@ -50,6 +50,7 @@ Here is a brief overview of the excel functionalitites or shortcuts that were he
 - **CTRL+H: REPLACE**
 - **CTRL+SHIFT+L: Apply/Remove Filters**
 - **ALT+(DOWN ARROW) on column header: Open Filter Menu**
+- **ALT+A+C (on any cell): Remove any active filtering**
 
 
 *Always use '=' for entering formulas/functions*
@@ -69,8 +70,12 @@ To get absolute reference from another tab, follow below steps:
 - Get the tab name in **'** single quotes
 - Leave an exclaimation mark next to it
 - add the absolute reference column next to the exclamation mark( it needs $ sign to be absolute) 
-<img width="1106" alt="image" src="https://github.com/user-attachments/assets/d4a8d099-f698-4ce7-a6ec-a1f6007689c7" />
+<img width="1106" alt="image" src="https://github.com/user-attachments/assets/d4a8d099-f698-4ce7-a6ec-a1f6007689c7" /> <br>
 
+
+Data Validations:
+Data validations helps to select a list of pre dedined values that can be selected in this process.<br>
+![image](https://github.com/user-attachments/assets/23460795-d22e-4326-b284-a535a2af36ba)
 
 
 ### Arithmetic Operations
